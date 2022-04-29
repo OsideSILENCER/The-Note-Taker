@@ -12,3 +12,5 @@ Usage
 In order to use Note taker simply enter in your desired text and it'll save it for future use.
 Credits
 N/A
+
+
