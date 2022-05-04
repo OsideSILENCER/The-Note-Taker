@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 app.use(express.static(__dirname));
 
-require('./routes/routes.js')(app);
+require('./routes/route.js')(app);
 
 // Setup listener
 app.listen(PORT, function() {
